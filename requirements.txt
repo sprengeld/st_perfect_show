@@ -92,7 +92,7 @@ tenacity==9.1.2
 threadpoolctl==3.6.0
 tokenizers==0.22.1
 toml==0.10.2
-torch==2.8.0+cpu
+torch
 tornado==6.5.2
 tqdm==4.67.1
 transformers==4.56.2
